@@ -1,4 +1,4 @@
-# Farm-cia-Cloud-Projeto-AWS-para-Iniciantes
+# Farm-cia-Cloud-Projeto-AWS
 Este projeto foi desenvolvido para iniciantes em AWS e tem como objetivo demonstrar como uma farmácia pode reduzir custos utilizando computação em nuvem.
 Objetivos
 Reduzir custos com infraestrutura local
